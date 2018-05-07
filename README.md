@@ -4,7 +4,7 @@ A program to keep an external hard drive awake.
 I will try to make a version of this for programming languages I pick up since it introduces input/output and threading.
 
 
-##C++ version
+## C++ version
 I compiled with Visual Studio 2017 Community. I believe any C++11 compiler should work.
 
 Source code note:
